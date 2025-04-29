@@ -1,5 +1,8 @@
 _repo: Novellenbuch-2-Band-Dorfgeschichten_75633
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75633-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wichert, Ernst
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55765
     wikipedia: https://de.wikipedia.org/wiki/Heinrich_Sohnrey
 description: 'Reading ease score: 82.8 (6th grade). Easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75633#Novellenbuch-2-Band-Dorfgeschichten
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Fiction'
